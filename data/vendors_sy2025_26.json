@@ -1,0 +1,242 @@
+{
+  "_source": "Curriculum assignments for school year 2025-26, the year the spring 2026 ELA test measures. Derived from the chart supplied by the CPRL team on 11 August 2026.",
+  "_note": "CURRICULUM ONLY. The professional learning provider (JESP) fields are deliberately null in this copy: those assignments are withheld from the public build, so they are not distributed with it. Everything else is unchanged, and rebuilding from this file reproduces the published dashboard exactly.",
+  "_phaseInChart": {
+    "1": 2,
+    "2": 2,
+    "3": 2,
+    "4": 2,
+    "5": 1,
+    "6": 2,
+    "7": 2,
+    "8": 2,
+    "9": 2,
+    "10": 1,
+    "11": 1,
+    "12": 1,
+    "13": 1,
+    "14": 2,
+    "15": 2,
+    "16": 1,
+    "17": 2,
+    "18": 2,
+    "19": 1,
+    "20": 1,
+    "21": 1,
+    "22": 1,
+    "23": 1,
+    "24": 1,
+    "25": 1,
+    "26": 1,
+    "27": 2,
+    "28": 1,
+    "29": 2,
+    "30": 2,
+    "31": 2,
+    "32": 1
+  },
+  "districts": {
+    "1": {
+      "k5Curr": "EL",
+      "msCurr": "EL",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "2": {
+      "k5Curr": "Wit and Wisdom",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "3": {
+      "k5Curr": "Wit and Wisdom",
+      "msCurr": "Wit and Wisdom / EL",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "4": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "5": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "6": {
+      "k5Curr": "EL",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "7": {
+      "k5Curr": "EL",
+      "msCurr": "EL",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "8": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "9": {
+      "k5Curr": "HMH",
+      "msCurr": "HMH / EL",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "10": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "11": {
+      "k5Curr": "EL",
+      "msCurr": "EL",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "12": {
+      "k5Curr": "HMH",
+      "msCurr": "EL",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "13": {
+      "k5Curr": "EL",
+      "msCurr": "EL",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "14": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "15": {
+      "k5Curr": "HMH / Wit and Wisdom",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "16": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "17": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "18": {
+      "k5Curr": "Wit and Wisdom",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "19": {
+      "k5Curr": "Wit and Wisdom",
+      "msCurr": "Wit and Wisdom",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "20": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "21": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "22": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "23": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "24": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "25": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "26": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "27": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "28": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "29": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "30": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "31": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    },
+    "32": {
+      "k5Curr": "HMH",
+      "msCurr": "",
+      "k5Jesp": null,
+      "msJesp": null
+    }
+  },
+  "_corrections": [
+    {
+      "date": "2026-09-30",
+      "district": "11",
+      "field": "k5Curr",
+      "from": "HMH",
+      "to": "EL",
+      "reason": "Reported by NYCPS on 30 September 2026 as an error: D11 uses EL Education for K-8. Corroborated by NYCPS's own 2026-27 District Reads Solves workbook, which records D11 Elementary Curriculum as EL, by D11's middle-grades curriculum already being EL in this chart, and by D11's professional learning provider being EL Education in both sources. D11 was the only EL-provider district recorded against HMH. Treated as a transcription error in the hand-entered SY2025-26 chart rather than a year-over-year change; the original chart image is no longer on file, so this rests on the corroboration above."
+    }
+  ]
+}
